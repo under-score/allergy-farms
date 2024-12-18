@@ -1,4 +1,4 @@
-# Allergy Prevalence and Farm Environment: A meta-analysis of study design shows a non-causal association
+# Allergy Prevalence and Farm Environment
 
 Data Repository
 
